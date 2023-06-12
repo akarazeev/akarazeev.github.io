@@ -1,7 +1,7 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Anton Karazeev
-    - name: Languages
-      value: English, German, Russian
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Anton Karazeev
+#     - name: Languages
+#       value: English, German, Russian
