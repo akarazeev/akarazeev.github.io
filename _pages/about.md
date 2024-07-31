@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Software Engineer at [Delivery Hero](https://www.deliveryhero.com/)
+Quantum Communication System Engineer at [Terra Quantum](https://terraquantum.swiss/)
